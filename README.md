@@ -22,6 +22,6 @@ Download yolo weights from [here](https://drive.google.com/file/d/1P0meG3sz6jOEt
 ``` $ python3 rpi.py ```
 
 
-#### Co-Developers
+#### Authors
 
-[Harish Kumar S Guragol](https://github.com/HarishGuragol) and [Gaurav Sethia](https://github.com/gauravsethia08)
+[Swati Sandhya](https://github.com/swati2000), [Harish Kumar S Guragol](https://github.com/HarishGuragol) and [Gaurav Sethia](https://github.com/gauravsethia08)
